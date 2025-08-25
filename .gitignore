@@ -1,0 +1,12 @@
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Backend
+backend/target/
+backend/.idea/
+backend/*.log
+backend/*.iml
+backend/.env
+backend/src/main/resources/application.properties
